@@ -1,10 +1,16 @@
 {
-  "name": "1AGhjDP36oYPSQJxPNvcW7JYk3WneCGmvhh4S90HZO36X0F5En",
+  "name": "เลขรูด ฮานอย ที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.38",
   "description": "เลขรูด ฮานอย เลขเด็ดงวดนี้ เลขรูด ฮานอย หาก เลขรูด ฮานอย Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด ประจำวันที่ 1 กุมภาพันธ์ 2566 ขอนำเสนอชุดเลข หวยลาภลอย 1262 แ",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["เลขรูด ฮานอย","เลขรูด","ฮานอย","เลขรูด Huay24","ฮานอย Huay24"],
+  "keywords": [
+    "เลขรูด ฮานอย",
+    "เลขรูด",
+    "ฮานอย",
+    "เลขรูด Huay24",
+    "ฮานอย Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
