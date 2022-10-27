@@ -1,10 +1,20 @@
 {
-  "name": "aNkcoOcgeSQspXfn9Rc69hasHsvJy0rP5rzo1z6Stc6fP48QQ5",
+  "name": "หวย 1 สิงหาคม 2563 แตกต่างกันอย่างไร - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "หวย 1 สิงหาคม 2563 เลขเด็ด ถ้า หวย 1 สิงหาคม 2563 ที่ Masurebet เว็บหวยออนไลน์ อันดับหนึ่ง งวดประจำวันที่ 1 เมษายน 2566 ที่จะถึงนี้ เว็บไซต์หวยไทยขอนำเสนอช",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["หวย 1 สิงหาคม 2563","หวย","1","สิงหาคม","2563","หวย Masurebet","1 Masurebet","สิงหาคม Masurebet","2563 Masurebet"],
+  "keywords": [
+    "หวย 1 สิงหาคม 2563",
+    "หวย",
+    "1",
+    "สิงหาคม",
+    "2563",
+    "หวย Masurebet",
+    "1 Masurebet",
+    "สิงหาคม Masurebet",
+    "2563 Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
