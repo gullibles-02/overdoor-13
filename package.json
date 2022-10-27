@@ -1,10 +1,13 @@
 {
-  "name": "0p4V41O9k3i02BFxefYw8l8VSbrXxeapOhqiWF2iq76glvQYp8",
+  "name": "888sport เลือกยังไง - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "888sport หวยมาเลย์ แม้ว่า 888sport Huaylike หวยออนไลน์ อันดับหนึ่ง นั้น เป็นหวยที่นิยมมาก ในหมู่นักเสี่ยงโชค ไม่ว่าจะเป็นคนไทย คนลาว 888sport หรือ ต่างชาติ",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["888SPORT","888SPORT Huaylike"],
+  "keywords": [
+    "888SPORT",
+    "888SPORT Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
