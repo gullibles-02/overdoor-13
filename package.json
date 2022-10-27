@@ -1,10 +1,13 @@
 {
-  "name": "W356KcFLkiuMUEXgMQKWkQVCedmbLzVRo9QJN17nXvtKvFkNiL",
+  "name": "อยากถูกหวยต้องบูชาอะไร เลือกยังไง - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.41",
   "description": "อยากถูกหวยต้องบูชาอะไร หวยลาว แม้ อยากถูกหวยต้องบูชาอะไร ที่ Huaydee เว็บหวยออนไลน์ อันดับหนึ่ง ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ อยากถูกหวยต้องบูชาอะไร ) ",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["อยากถูกหวยต้องบูชาอะไร","อยากถูกหวยต้องบูชาอะไร Huaydee"],
+  "keywords": [
+    "อยากถูกหวยต้องบูชาอะไร",
+    "อยากถูกหวยต้องบูชาอะไร Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
