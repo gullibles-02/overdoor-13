@@ -1,10 +1,16 @@
 {
-  "name": "NhKJBu5smbsUWm4ULJabZbFeItLfr9OapiW424r3Q2mFfleHFj",
+  "name": "หวยฮานอย pantip มีคำตอบ - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.54",
   "description": "หวยฮานอย pantip ฟัน ตาม หวยฮานอย pantip Lotto หวยออนไลน์ อันดับหนึ่ง 0เลขเม็ดเดียว 05 หวยฮานอย pantip 805เลข 2 ตัว 04 01 09ขอให้สนุกกับการซื้อหวยออนไลน์งวด",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["หวยฮานอย PANTIP","หวยฮานอย","PANTIP","หวยฮานอย Lotto","PANTIP Lotto"],
+  "keywords": [
+    "หวยฮานอย PANTIP",
+    "หวยฮานอย",
+    "PANTIP",
+    "หวยฮานอย Lotto",
+    "PANTIP Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
