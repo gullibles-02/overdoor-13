@@ -1,10 +1,13 @@
 {
-  "name": "sS6NnEVxtoVAMjkfMbW3tLGqw5UrSMiKHxwwyPtegKcXMdfg3U",
+  "name": "หวยลาวอาเซียนสด ดูยังไง - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "หวยลาวอาเซียนสด โปรโมชั่นวันนี้ เนื่องแต่ หวยลาวอาเซียนสด ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง มีโบนัสแนะนำเพื่อน ทุกยอดการซื้อหวยออนไลน์ ล็อตโต้ จะได้รับส",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["หวยลาวอาเซียนสด","หวยลาวอาเซียนสด Lotto"],
+  "keywords": [
+    "หวยลาวอาเซียนสด",
+    "หวยลาวอาเซียนสด Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
