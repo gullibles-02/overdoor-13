@@ -1,10 +1,13 @@
 {
-  "name": "morTU97W5PA7cfWBAILyfGNT692mYGSgYCdrNd3kQStueI1zz2",
+  "name": "หวยหุ้นช่อง9 เล่นที่ไหน - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "หวยหุ้นช่อง9 ผลหวยฮานอยวันนี้ ถ้า หวยหุ้นช่อง9 ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง หวยหุ้นช่อง9 เช็คผลหวยเว็บ Ruay อัพเดทเรียลไทม์ด้วยระบบอัพผลที่เชื่อมต่",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["หวยหุ้นช่อง9","หวยหุ้นช่อง9 Lotto"],
+  "keywords": [
+    "หวยหุ้นช่อง9",
+    "หวยหุ้นช่อง9 Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
