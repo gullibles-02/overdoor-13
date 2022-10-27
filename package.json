@@ -1,10 +1,18 @@
 {
-  "name": "vQNXDyySmukC7feagG1FhFrGvqmn4Nf35NaAnTf2akkkLPLejG",
+  "name": "เว็บหวยที่ให้ค่า af สูง คืออะไร - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.19",
   "description": "เว็บหวยที่ให้ค่า AF สูง ดูบอล ก่อน เว็บหวยที่ให้ค่า AF สูง 999Lucky ลัคกี้ หวยออนไลน์ มีหวยทุกชนิด แมนซิตี้ วันนี้ ดูบอลสด แมนซิตี้ Vs เลสเตอร์ ดูบอลสด แมน",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["เว็บหวยที่ให้ค่า AF สูง","เว็บหวยที่ให้ค่า","AF","สูง","เว็บหวยที่ให้ค่า 999Lucky","AF 999Lucky","สูง 999Lucky"],
+  "keywords": [
+    "เว็บหวยที่ให้ค่า AF สูง",
+    "เว็บหวยที่ให้ค่า",
+    "AF",
+    "สูง",
+    "เว็บหวยที่ให้ค่า 999Lucky",
+    "AF 999Lucky",
+    "สูง 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
