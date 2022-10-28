@@ -1,10 +1,13 @@
 {
-  "name": "KMlOJd93VD6bjlKxTLodPtH4J9aGe2DuKUbAUmpuwDJo9pnaJR",
+  "name": "ผลหวยไต้หวัน ดูยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.80",
   "description": "ผลหวยไต้หวัน ชุดเลขท้าย ตาม ผลหวยไต้หวัน Thailotto ไทยล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด 3 ตัว พร้อมจับหมุนกลับได้แก่732-723-327-372-273-237ชุดเลขท้าย 2 ตัว พ",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["ผลหวยไต้หวัน","ผลหวยไต้หวัน Thailotto"],
+  "keywords": [
+    "ผลหวยไต้หวัน",
+    "ผลหวยไต้หวัน Thailotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
