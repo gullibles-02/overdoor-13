@@ -1,10 +1,13 @@
 {
-  "name": "RbebS7A0IR2MholEg8jorRACaGG2eezRLetlVX7bQ80n1xw0db",
+  "name": "หุ้นเกาหลีดูยังไง ได้อย่างไร - เว็บใหม่ tubtim389 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "หุ้นเกาหลีดูยังไง ผลหวยพม่า อย่างไรก็ดี หุ้นเกาหลีดูยังไง Tubtim389 หวยออนไลน์ อันดับหนึ่ง 130565 ตรวจหวยพม่าวันนี้ งวดวันที่ 13 พฤษภาคม 2566 หุ้นเกาหลีดูย",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": ["หุ้นเกาหลีดูยังไง","หุ้นเกาหลีดูยังไง Tubtim389"],
+  "keywords": [
+    "หุ้นเกาหลีดูยังไง",
+    "หุ้นเกาหลีดูยังไง Tubtim389"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
