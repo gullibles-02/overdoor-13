@@ -1,13 +1,10 @@
 {
-  "name": "ผลหุ้นอินเดียออกกี่โมง ดูยังไง - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "HZbRVH3dHsi6XDPeSUxUgXYE00qUrKNr82ddJu8s2Gz8hkWzvt",
   "theme": "syntax",
   "version": "1.0.78",
   "description": "ผลหุ้นอินเดียออกกี่โมง หากทุกท่านเคยแทง เนื่องจาก ผลหุ้นอินเดียออกกี่โมง ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง หวยออนไลน์ แน่นอนย่อมต้องเคยได้ยินหรือรู้",
   "repository": "https://github.com/gullibles-02/overdoor-13",
-  "keywords": [
-    "ผลหุ้นอินเดียออกกี่โมง",
-    "ผลหุ้นอินเดียออกกี่โมง Thailotto"
-  ],
+  "keywords": ["ผลหุ้นอินเดียออกกี่โมง","ผลหุ้นอินเดียออกกี่โมง Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
